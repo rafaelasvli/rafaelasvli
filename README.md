@@ -83,7 +83,8 @@
 </td>
 <td>
 <div>
-<img alt="SVG" src="https://i.pinimg.com/originals/08/02/90/0802902d937143024ea07a8075d6104f.gif" width="340px" height="650px" />
+<img alt="SVG" src="https://i.pinimg.com/originals/c8/56/4a/c8564a53ab234f0ff5a4f6f5f92f9650.gif" width="340px" height="650px" />
+<img alt="SVG" src="https://i.pinimg.com/originals/14/9e/fa/149efa6fa59076a9409393af81f8dee0.gif" width="340px" height="650px" />
 </div>
 </td>
 </tr>
