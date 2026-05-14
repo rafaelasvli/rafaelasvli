@@ -71,7 +71,7 @@
 - :atom: Linguagens que já programei: C, C++, Python, Java, JavaScript, HTML, CSS, Typescript.
 - :memo: Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank">aqui</a>.<br />
 - :books: Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank">aqui</a>.<br />
-- :soccer: Sou cruzeirense, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">cabuloso</a>. 🦊:<br />
+- :soccer: Sou cruzeirense, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">cabuloso</a>. 🦊:<br />
 - :basketball: Meus hobbies são <a href="https://muonline.webzen.com/pt" target="_blank">Mu online</a>, <a href="https://www.demolidores.com.br/" target="_blank">Tibia</a>, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a> e violão.<br />
 - :tv: Minha série preferida chama-se <a href="https://www.imdb.com/title/tt0487831/" target="_blank">The IT Crowd</a>. Atualmente estou assistindo <a href="https://www.imdb.com/pt/title/tt0804484/" target="_blank">Foundation</a>, <a href="https://www.imdb.com/pt/title/tt10466872/" target="_blank">Dune: Prophecy</a>, <a href="https://www.imdb.com/title/tt14688458/" target="_blank">Silo</a>, <a href="https://www.imdb.com/title/tt9813792/" target="_blank">From</a> e <a href="https://www.imdb.com/title/tt15435876/" target="_blank">The Penguin</a>.<br />
 - :speech_balloon: Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
