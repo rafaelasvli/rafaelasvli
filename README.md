@@ -40,13 +40,13 @@
 </tr> 
 </table>
 </div>
-
+-----
 <div align="justify">
 <i><b>Olá</b> :wave:, sou a <code>Rafaela</code>, tenho 20 anos, moro em BH e curso o segundo período de Engenharia de Software na PUC Minas.
 </div>
 
 <div>
-
+-----
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Meus interesses pessoais:
 
 <table>
