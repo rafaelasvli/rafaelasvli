@@ -160,6 +160,20 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rafaelasvli&color=FFA1D2&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
 
+-----
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/rafaelasvli/rafaelasvli/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/rafaelasvli/rafaelasvli/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/rafaelasvli/rafaelasvli/output/pacman-contribution-graph.svg">
+</picture>
+
+<img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B0B0B0&section=footer"/>
+
 
 
 
