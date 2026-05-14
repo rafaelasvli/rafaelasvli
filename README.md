@@ -152,6 +152,12 @@
 
 -----
 
+[![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=rafaelasvli&layout=normal&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas)](https://nice-readme.vercel.app/top-langs)
+
+
+
+-----
+
 [![Profile Views](https://komarev.com/ghpvc/?username=rafaelasvli&color=FFA1D2&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
 
 
