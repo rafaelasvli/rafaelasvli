@@ -61,17 +61,11 @@
 <td width="500px" >
 <div align="justify">
 <p> 
-- :man_teacher: Na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, sou <code>professor</code> no curso de Engenharia de Software. Também sou <code>CTO</code> da Agência Experimental de Software do ICEI - Instituto de Ciências Exatas e Informática.<br />
-- :mortar_board: Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, fui <code>professor</code> nos cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas.<br />
-- :airplane: Na <a href="https://in8.com.br/" target="_blank">IN8</a>, atuei como <code>Tech Manager</code>, responsável pela liderança de squads de devs de múltiplos projetos para o mercado de milhas aéreas.<br />
-- :briefcase: Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, atuei como <code>Tech Lead</code> de Currículo, Liderança de Instrução e Especialista em Instrução de Tecnologia. Ministrei aulas de Ciência da Computação para a primeira turma da escola. :man_teacher:<br />
-- :man_teacher: Também fui <code>professor</code> de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/" target="_blank">Faculdade XP Educação</a> e de Ciência da Computação na <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>.<br />
-- :trophy: Fui o <a href="https://www.linkedin.com/posts/joaopauloaramuni_estou-muito-honrado-com-essa-homenagem-do-activity-7164606251341889536-_khY" target="_blank">professor destaque</a> do curso de Sistemas de Informação da <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a> no segundo semestre de 2023.<br />
-- :mortar_board: Fui o <a href="https://www.fumec.br/servicos/colacao-de-grau/homenagens/" target="_blank">patrono</a> da turma de Ciência da Computação da <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a> no primeiro semestre de 2020.<br />
-- :atom: Linguagens que já programei: C, C++, Python, Java, JavaScript, HTML, CSS, Typescript.
+- 👩‍🎓: Na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, sou <code>aluna</code> do curso de Engenharia de Software do Segundo Período. <br />
+- :atom: Linguagens que já programei: C, C++, Python, Java, JavaScript, HTML, CSS, Typescript. <br />
 - :soccer: Sou cruzeirense, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">cabuloso</a>. 🦊:<br />
 - :basketball: Meus hobbies são <a href="https://playvalorant.com/pt-br/" target="_blank">Valorant</a>, <a href="https://www.geoguessr.com/" target="_blank">GeoGuessr</a> e <a href="https://huawen.com.br/" target="_blank">aprender mandarim</a>.<br />
-- :tv: Minha série preferida chama-se <a href="https://www.imdb.com/pt/title/tt7278588/" target="_blank">Porque Esta É Minha Primeira Vida</a>.
+- :tv: Minha série preferida chama-se <a href="https://www.imdb.com/pt/title/tt7278588/" target="_blank">Porque Esta É Minha Primeira Vida</a>. <br />
 - :mailbox: Para me encontrar, este é meu <a href="mailto:rafaelasvli883@gmail.com" target="_blank">e-mail</a>.
 </p>
 </div>
@@ -79,7 +73,6 @@
 <td>
 <div>
 <img alt="SVG" src="https://i.pinimg.com/originals/c8/56/4a/c8564a53ab234f0ff5a4f6f5f92f9650.gif" width="340px" height="650px" />
-<img alt="SVG" src="https://i.pinimg.com/originals/14/9e/fa/149efa6fa59076a9409393af81f8dee0.gif" width="340px" height="650px" />
 </div>
 </td>
 </tr>
