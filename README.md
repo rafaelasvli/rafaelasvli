@@ -69,15 +69,10 @@
 - :trophy: Fui o <a href="https://www.linkedin.com/posts/joaopauloaramuni_estou-muito-honrado-com-essa-homenagem-do-activity-7164606251341889536-_khY" target="_blank">professor destaque</a> do curso de Sistemas de Informação da <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a> no segundo semestre de 2023.<br />
 - :mortar_board: Fui o <a href="https://www.fumec.br/servicos/colacao-de-grau/homenagens/" target="_blank">patrono</a> da turma de Ciência da Computação da <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a> no primeiro semestre de 2020.<br />
 - :atom: Linguagens que já programei: C, C++, Python, Java, JavaScript, HTML, CSS, Typescript.
-- :memo: Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank">aqui</a>.<br />
-- :books: Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank">aqui</a>.<br />
 - :soccer: Sou cruzeirense, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">cabuloso</a>. 🦊:<br />
-- :basketball: Meus hobbies são <a href="https://muonline.webzen.com/pt" target="_blank">Mu online</a>, <a href="https://www.demolidores.com.br/" target="_blank">Tibia</a>, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a> e violão.<br />
-- :tv: Minha série preferida chama-se <a href="https://www.imdb.com/title/tt0487831/" target="_blank">The IT Crowd</a>. Atualmente estou assistindo <a href="https://www.imdb.com/pt/title/tt0804484/" target="_blank">Foundation</a>, <a href="https://www.imdb.com/pt/title/tt10466872/" target="_blank">Dune: Prophecy</a>, <a href="https://www.imdb.com/title/tt14688458/" target="_blank">Silo</a>, <a href="https://www.imdb.com/title/tt9813792/" target="_blank">From</a> e <a href="https://www.imdb.com/title/tt15435876/" target="_blank">The Penguin</a>.<br />
-- :speech_balloon: Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
-- :mailbox: Para me encontrar, este é meu <a href="mailto:joaopauloaramuni@gmail.com" target="_blank">e-mail</a> pessoal e este é meu <a href="mailto:joaoaramuni@pucminas.br" target="_blank">e-email</a> corporativo da PUC Minas.<br />
-- :calendar: Essa é minha <a href="https://calendly.com/aramuni" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
-- :page_facing_up: Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
+- :basketball: Meus hobbies são <a href="https://playvalorant.com/pt-br/" target="_blank">Valorant</a>, <a href="https://www.geoguessr.com/" target="_blank">GeoGuessr</a> e <a href="https://huawen.com.br/" target="_blank">aprender mandarim</a>.<br />
+- :tv: Minha série preferida chama-se <a href="https://www.imdb.com/pt/title/tt7278588/" target="_blank">Porque Esta É Minha Primeira Vida</a>.
+- :mailbox: Para me encontrar, este é meu <a href="mailto:rafaelasvli883@gmail.com" target="_blank">e-mail</a>.
 </p>
 </div>
 </td>
