@@ -73,6 +73,35 @@
 
 -----
 
+
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp;Linguagens e ferramentas:
+
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/python.png?raw=true"/></a></td>
+    <td align="center"><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/java.png?raw=true"/></a></td>
+    <td align="center"><a href="https://spring.io/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/spring.png?raw=true"/></a></td>
+    <td align="center"><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/mysql.png?raw=true"/></a></td>
+    <td align="center"><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/nodejs.png?raw=true"/></a></td>
+    <td align="center"><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/docker.png?raw=true"/></a></td>
+    <td align="center"><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/postman.png?raw=true"/></a></td>
+    <td align="center"><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/vs.png?raw=true"/></a></td>
+  </tr>
+  
+  <tr>
+    <td align="center"><a href="https://en.cppreference.com/w/c" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/></a></td>
+    <td align="center"><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/></a></td>
+    <td align="center"><a href="https://www.typescriptlang.org/" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/></a></td>
+    <td align="center"><a href="https://react.dev/" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/></a></td>
+    <td align="center"><a href="https://tailwindcss.com/" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"/></a></td>
+  </tr>
+</table>
+
+-----
+
 <table>
 <tr>
  <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@rafaelasvli">WakaTime</a></td>
