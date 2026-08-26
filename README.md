@@ -30,7 +30,7 @@
 -----
 
 <div align="justify">
-<i><b>Olá, 你好! </b> :wave:, sou a <code>Rafaela</code>, tenho 20 anos, moro em BH e curso o segundo período de Engenharia de Software na PUC Minas.
+<i><b>Olá, 你好! </b> :wave:, sou a <code>Rafaela</code>, tenho 20 anos, moro em BH e curso o terceiro período de Engenharia de Software na PUC Minas.
 </div>
 
 <div>
