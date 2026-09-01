@@ -48,7 +48,7 @@
 <div align="justify">
 <p> 
 - 👩‍🎓: Na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, sou <code>aluna</code> do curso de Engenharia de Software do Terceiro Período. <br />
-- :atom: Linguagens que já programei: C, C++, Python, Java, JavaScript, HTML, CSS, Typescript. <br />
+- :atom: Linguagens que já programei: C, C++, Python, Java, JavaScript, HTML, CSS, Typescript, SQL. <br />
 - :soccer: Sou cruzeirense, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">cabuloso</a>. 🦊:<br />
 - :basketball: Meus hobbies são <a href="https://playvalorant.com/pt-br/" target="_blank">Valorant</a>, <a href="https://www.geoguessr.com/" target="_blank">GeoGuessr</a> e <a href="https://huawen.com.br/" target="_blank">aprender mandarim</a>.<br />
 - :tv: Minha série preferida chama-se <a href="https://www.imdb.com/pt/title/tt7278588/" target="_blank">Porque Esta É Minha Primeira Vida</a>. <br />
